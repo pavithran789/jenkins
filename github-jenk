@@ -1,0 +1,3 @@
+a=35
+if (a<50)
+print ("eligible to vote")
